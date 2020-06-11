@@ -2,7 +2,6 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
 contacts:
   - title: Contact us info
     content:
