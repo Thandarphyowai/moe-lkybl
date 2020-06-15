@@ -4,7 +4,8 @@ permalink: /about-the-fund/our-impact/
 ---
 
 ####   Our Structure
-The Fund is managed by a Board and supported by the following committees: 
+The Fund is managed by a Board and supported by the following committees:
+
 (i) Project Evaluation Committee (PEC)
 
 (ii) Publicity and Outreach Committee (POC)
@@ -14,6 +15,7 @@ The Fund is managed by a Board and supported by the following committees:
 (iv) Audit Committee (AC)
 
 (v) Research Advisory Panel
+
 The Board members are:
 <html>
 <body>
@@ -39,21 +41,17 @@ border: 1px solid black;
     <th>Designation</th> 
   </tr>
   <tr>
-    <td>Mr Ong Ye Kung (Chair)
+    <td>Mr Ong Ye Kung (Chair)<br/>
 王乙康 ( 主席 )</td>
     <td>Minister for Education</td>
     
   </tr>
   <tr>
     <td>Ms Low Yen Ling (Vice-
-chair)</td>
+chair)<br/>刘燕玲
+  </td>
     <td>Senior Parliamentary Secretary<br/>
 Ministry of Education &amp; Ministry of Manpower</td>
-    
-  </tr>
-  <tr>
-    <td>刘燕玲 ( 副主席 )</td>
-    <td></td>
     
   </tr>
   <tr>
